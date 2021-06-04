@@ -1,2 +1,2 @@
 # Kodluyoruz-BootstrapOdev
-Kodluyoruz Bootstrap Birinci Ödevi
+Kodluyoruz Bootstrap Ödev1
